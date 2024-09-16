@@ -57,7 +57,7 @@ def slowprint(text: str, speed: float, newLine=True):
     if newLine:
         print()
 
-print(dociteam)
+print(D3FAULT)
 time.sleep(2)
 slowprint(color.Yellow+f"\n\n|************ Welcome to {color.Blue}Telegram {color.Blue}Bomber{color.Yellow} ************|\n",0.07)
 slowprint(color.Yellow+"[!] This project is designed exclusively for learning purposes!\n",0.07)
