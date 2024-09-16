@@ -4,13 +4,13 @@
 
 </div>
 
-# 📌 Menu
+# Menu
 
-📌 [<kbd>What is TBom</kbd>](#-what-is-tbom)
+- [<kbd>What is TBom</kbd>](#-what-is-tbom)
 - [<kbd>Installation</kbd>](#-installation)
 - [<kbd>Donate for coffee</kbd>](#-donate-for-coffee)
 
-# 📌 What is TBom
+#  What is TBom
 
 <div align="justify">
   
@@ -29,7 +29,7 @@ Disclaimer, the use of this tool is only for training or education, not to bring
 `Possibilities`
 * Telegram attack
 
-# 📌 Installation
+#  Installation
 
 - To run the beast bomber you need to download Python: https://www.python.org
 
@@ -41,7 +41,7 @@ Disclaimer, the use of this tool is only for training or education, not to bring
 Bomb To send messages in Telegram, you need to specify the **ID of the target**
 
 
-# 📌 Donate for coffee
+# Donate for coffee
 
 * ![BNB](https://user-images.githubusercontent.com/80776324/230691108-ecd10132-af58-4064-8c44-ad10f6f55dd1.png) **BNB: **
 
