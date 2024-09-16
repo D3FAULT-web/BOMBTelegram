@@ -16,6 +16,8 @@
   
   ## **Use this script for educational purposes only and do not abuse it. Only YOU are responsible for its use**
 
+  ![image](https://github.com/user-attachments/assets/0deb4009-b835-44fd-be8a-f2fe1fb91965)
+
 Tbom is a utility that allows you to create bomb materials created as part of a Personal Attack project using telegram. This allows software creators to produce their projects in a simple yet powerful way.
 
 Tbom is a project currently being incubated at D3FAULT privately. 
